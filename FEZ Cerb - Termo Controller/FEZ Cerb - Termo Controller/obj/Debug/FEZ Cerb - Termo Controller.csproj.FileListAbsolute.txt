@@ -1,0 +1,61 @@
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\le\FEZ Cerb - Termo Controller.exe
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\be\FEZ Cerb - Termo Controller.exe
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\le\FEZ Cerb - Termo Controller.pdb
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\be\FEZ Cerb - Termo Controller.pdb
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\FEZ Cerb - Termo Controller.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\FEZ_Cerb___Termo_Controller.Resources.resources
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\FEZ Cerb - Termo Controller.csproj.GenerateResource.Cache
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\FEZ_Cerb___Termo_Controller.Resources.tinyresources
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\TinyResGen.cache
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\FEZ Cerb - Termo Controller.exe
+C:\Users\Dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\FEZ Cerb - Termo Controller.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\FEZ Cerb - Termo Controller.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\FEZ Cerb - Termo Controller.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\le\FEZ Cerb - Termo Controller.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\le\FEZ Cerb - Termo Controller.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\be\FEZ Cerb - Termo Controller.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\be\FEZ Cerb - Termo Controller.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\Gadgeteer.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZCerberus.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\GHI.Usb.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\GHI.Pins.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\Gadgeteer.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZCerberus.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\GHI.Usb.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\GHI.Pins.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZCerberus.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\LE\GHI.Pins.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZCerberus.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\BE\GHI.Pins.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\Gadgeteer.DaisyLink.dll
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\Gadgeteer.dll
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\GHIElectronics.Gadgeteer.FEZCerberus.dll
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\GHI.Hardware.dll
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\GHI.Usb.dll
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\GHI.Pins.dll
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\Gadgeteer.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\Gadgeteer.xml
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\Gadgeteer.DaisyLink.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\Gadgeteer.DaisyLink.xml
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\GHIElectronics.Gadgeteer.FEZCerberus.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\GHIElectronics.Gadgeteer.FEZCerberus.xml
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\GHI.Hardware.xml
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\GHI.Usb.xml
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\bin\Debug\GHI.Pins.xml
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\be\FEZ Cerb - Termo Controller.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\be\FEZ Cerb - Termo Controller.pdbx
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\le\FEZ Cerb - Termo Controller.pe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\FEZ Cerb - Termo Controller\FEZ Cerb - Termo Controller\obj\Debug\le\FEZ Cerb - Termo Controller.pdbx

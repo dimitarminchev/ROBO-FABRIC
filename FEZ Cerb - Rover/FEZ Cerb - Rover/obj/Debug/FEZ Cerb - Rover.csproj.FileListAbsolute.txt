@@ -1,0 +1,68 @@
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\le\FEZ Cerb - Rover.exe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\be\FEZ Cerb - Rover.exe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\le\FEZ Cerb - Rover.pdb
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\be\FEZ Cerb - Rover.pdb
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\FEZ Cerb - Rover.exe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\FEZ Cerb - Rover.pdb
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\le\FEZ Cerb - Rover.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\le\FEZ Cerb - Rover.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\be\FEZ Cerb - Rover.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\be\FEZ Cerb - Rover.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\Gadgeteer.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZCerberus.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GTM.GHIElectronics.UCBattery4xAA.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GHI.Hardware.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GHI.Usb.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GHI.Pins.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\Gadgeteer.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZCerberus.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GTM.GHIElectronics.UCBattery4xAA.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GHI.Hardware.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GHI.Usb.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GHI.Pins.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\Gadgeteer.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZCerberus.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GTM.GHIElectronics.UCBattery4xAA.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GHI.Hardware.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GHI.Usb.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\LE\GHI.Pins.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\Gadgeteer.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZCerberus.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GTM.GHIElectronics.UCBattery4xAA.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GHI.Hardware.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GHI.Usb.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\BE\GHI.Pins.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\Gadgeteer.dll
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GHIElectronics.Gadgeteer.FEZCerberus.dll
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GTM.GHIElectronics.Extender.dll
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GTM.GHIElectronics.UCBattery4xAA.dll
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GHI.Hardware.dll
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GHI.Usb.dll
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GHI.Pins.dll
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\Gadgeteer.pdb
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\Gadgeteer.xml
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GHIElectronics.Gadgeteer.FEZCerberus.pdb
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GHIElectronics.Gadgeteer.FEZCerberus.xml
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GTM.GHIElectronics.Extender.pdb
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GTM.GHIElectronics.Extender.xml
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GTM.GHIElectronics.UCBattery4xAA.pdb
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GTM.GHIElectronics.UCBattery4xAA.xml
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GHI.Hardware.xml
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GHI.Usb.xml
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\bin\Debug\GHI.Pins.xml
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\FEZ Cerb - Rover.csprojResolveAssemblyReference.cache
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\TinyCLR_DebugReferences.cache
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\FEZ_Cerb___Rover.Resources.resources
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\FEZ Cerb - Rover.csproj.GenerateResource.Cache
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\FEZ_Cerb___Rover.Resources.tinyresources
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\TinyResGen.cache
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\be\FEZ Cerb - Rover.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\be\FEZ Cerb - Rover.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\le\FEZ Cerb - Rover.pe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\le\FEZ Cerb - Rover.pdbx
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\FEZ Cerb - Rover.exe
+c:\users\dimitar\documents\visual studio 2013\Projects\FEZ Cerb - Rover\FEZ Cerb - Rover\obj\Debug\FEZ Cerb - Rover.pdb

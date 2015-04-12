@@ -1,0 +1,801 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GHI.Pins</name>
+    </assembly>
+    <members>
+        <member name="T:GHI.Pins.EMX">
+            <summary>
+            Pin definitions for the EMX System on Module (SoM).
+            </summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO0">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO1">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO2">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO3">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO4">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO5">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO6">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO7">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO8">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO9">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO10">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO11">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO12">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO13">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO14">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO15">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO16">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO17">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO18">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO19">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO20">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO21">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO22">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO23">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO24">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO25">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO26">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO27">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO28">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO29">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO30">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO31">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO32">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO33">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO34">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO35">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO36">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO37">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO38">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO39">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO40">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO41">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO42">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO43">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO44">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO45">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO46">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO47">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO48">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO49">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO50">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO51">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO52">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO53">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO54">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO55">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO56">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO57">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO58">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO59">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO60">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO61">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO62">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO63">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO64">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO65">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO66">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO67">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO68">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO69">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO70">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO71">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO72">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO73">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO74">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO75">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.EMX.IO76">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="T:GHI.Pins.G120">
+            <summary>
+            Pin definitions for the G120 System on Module (SoM).
+            </summary>`
+        </member>
+        <member name="F:GHI.Pins.G120.P0_0">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_1">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_2">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_3">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_4">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_5">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_6">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_7">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_8">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_9">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_10">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_11">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_12">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_13">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_15">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_16">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_17">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_18">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_22">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_23">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_24">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_25">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_26">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_27">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P0_28">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_0">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_1">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_2">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_3">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_4">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_5">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_6">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_7">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_8">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_9">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_10">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_11">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_12">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_14">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_15">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_16">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_17">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_19">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_20">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_21">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_22">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_23">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_24">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_25">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_26">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_27">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_28">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_29">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_30">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P1_31">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_0">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_1">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_2">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_3">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_4">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_5">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_6">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_7">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_8">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_9">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_10">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_11">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_12">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_13">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_14">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P2_21">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P3_24">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P3_25">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P3_26">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P4_28">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G120.P4_29">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="T:GHI.Pins.G400">
+            <summary>
+            Pin definitions for the G400 System on Module (SoM).
+            </summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA0">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA1">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA2">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA3">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA4">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA5">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA6">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA7">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA8">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA9">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA10">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA11">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA12">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA13">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA14">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA15">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA16">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA17">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA18">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA19">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA20">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA21">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA22">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA23">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA24">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA25">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA26">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA27">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA28">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA29">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA30">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PA31">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB0">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB1">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB2">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB3">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB4">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB5">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB6">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB7">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB8">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB9">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB10">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB11">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB12">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB13">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB14">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB15">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB16">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB17">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PB18">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC0">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC1">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC2">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC3">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC4">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC5">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC6">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC7">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC8">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC9">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC10">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC11">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC12">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC13">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC14">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC15">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC16">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC17">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC18">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC19">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC20">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC21">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC22">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC23">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC24">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC25">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC26">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC27">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC28">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC29">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC30">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PC31">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD0">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD1">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD2">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD3">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD4">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD5">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD6">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD7">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD8">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD9">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD10">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD11">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD12">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD13">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD14">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD15">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD16">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD17">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="F:GHI.Pins.G400.PD18">
+            <summary>GPIO pin.</summary>
+        </member>
+        <member name="T:GHI.Pins.Generic">
+            <summary>
+            Generic pin calculations.
+            </summary>
+        </member>
+        <member name="M:GHI.Pins.Generic.GetPin(System.Char,System.Int32)">
+            <summary>
+            Creates a Cpu.Pin from a given port and pin.
+            </summary>
+            <param name="port">The port.</param>
+            <param name="pinNumber">The pin number.</param>
+            <returns>The Cpu.Pin for the given port and pin.</returns>
+        </member>
+    </members>
+</doc>
